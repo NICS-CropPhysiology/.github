@@ -1,6 +1,6 @@
-# NICS Crop Physiology Lab
+# Digital Lab, Crop Production & Physiology Division, RDA
 
-재배생리과 디지털연구실 Git Organization입니다.
+식량과학원 재배생리과 디지털연구실 Git Organization입니다.
 
 이 Organization은 **연구 코드 관리, 협업, 재현 가능한 연구 환경 구축**을 목적으로 운영됩니다.  
 GitHub에는 **코드 및 연구 재현을 위한 스크립트만 관리**하며, 대용량 데이터는 별도의 저장소에서 관리합니다.
