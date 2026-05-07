@@ -21,7 +21,7 @@ Organization 관리자에게 문의하세요.
 
 | 역할 | 이름 | 연락처 |
 | :--- | :--- | :--- |
-| 민간전문가 (개발 담당) | 홍길동 | hong@rda.go.kr |
+| 민간전문가 | 김형균 | khgyun09@gmail.com |
 
 ### 관리자 권한
 - Organization 설정 관리
